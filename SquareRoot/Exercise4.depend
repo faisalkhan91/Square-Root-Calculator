@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1488058309 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exersise 4\programming exercise 4\exercise4\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1488058309 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exersise 4\programming exercise 4\exercise4\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<locale>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1488488791 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exersise 4\programming exercise 4\exercise4\exercise4.cpp
+	<iostream>
+	"tools.hpp"
+
